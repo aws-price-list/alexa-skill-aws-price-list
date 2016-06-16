@@ -1,0 +1,18 @@
+{
+  "name": "aws-price-list",
+  "version": "1.0.0",
+  "description": "\"Alexa, How much does service X cost on Amazon Web Services?\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Alexa",
+    "AWS Price List"
+  ],
+  "author": "Krishnan M",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^2.3.4"
+  }
+}
