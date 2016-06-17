@@ -14,5 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "alexa-app": "^2.3.4"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-aws-lambda": "^0.13.0"
   }
 }
